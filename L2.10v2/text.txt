@@ -1,0 +1,8 @@
+John Doe	25	50000	IT
+Alice Smith	30	75000	HR
+Bob Johnson	22	45000	IT
+Carol Brown	35	80000	Finance
+David Wilson	28	60000	IT
+Eve Davis	40	90000	HR
+Eve Davis	40	90000	HR
+Frank Miller	26	55000	Finance
