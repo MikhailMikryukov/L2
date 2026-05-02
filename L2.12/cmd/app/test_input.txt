@@ -1,0 +1,20 @@
+First line of the file
+Hello world this is a test
+Another line here
+HELLO in uppercase
+Some random text
+Goodbye world
+Hello again with context
+This line should be captured
+As context for hello
+And this one too
+Another hello match
+With some text after
+No match here
+Just regular text
+Final HELLO in the file
+With different case
+Last line of document
+End of file reached
+Final goodbye
+The very end
